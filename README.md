@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Olá, eu sou o André Alves, formado em Publicidade e Propaganda, com experiência em Marketing e em transição de carreira para a área de tecnologia.
+
+<h3>Entre em contato comigo:</h3>
+
+<a href="https://www.linkedin.com/in/andreluialves/">
+  <img align="left" alt="logo do linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 <!--
 **andreluialves/andreluialves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
