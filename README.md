@@ -2,6 +2,8 @@
 
 Eu sou o André Alves, formado em Publicidade e Propaganda, com experiência em Marketing e em transição de carreira para a área de tecnologia.
 
+Sou fascinado pelo poder transformador da tecnologia e pela possibilidade de conseguir impactar positivamente a vida das pessoas através da programação.
+
 <h3>Entre em contato comigo:</h3>
 
 <a href="https://www.linkedin.com/in/andreluialves/">
