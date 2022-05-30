@@ -5,6 +5,13 @@ a área de tecnologia.
 
 Sou fascinado pelo poder transformador da tecnologia e pela possibilidade de conseguir impactar positivamente a vida das
 pessoas através da programação.
+- 🌱 Estudei JavaScript, HTML, CSS, e React.
+- 👨🏽‍💻 Atualmente tenho focado meus estudos em MySql e Node JS.
+- 👯 Procuro colaborar em projetos abertos.
+- 🤔 Procuro ajuda para me aprimorar como Dev Front-end.
+- 💬 Precisando de ajuda, pode perguntar. Gosto de colaborar.
+- 📫 Como me contatar: andreluialves@hotmail.com.
+
 
 <h3>Entre em contato comigo:</h3>
 <div style="display: inline_block">
