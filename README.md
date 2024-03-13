@@ -1,14 +1,11 @@
 ## Olá pessoal! 👋
 
-Eu sou o André Alves, formado em Publicidade e Propaganda, com experiência em Marketing e em transição de carreira para
-a área de tecnologia.
+Eu sou o André Alves, graduado em Publicidade e Propaganda e há três anos estudo prgramação. Atualmente sou Desenvolvedor Full Stack na [Locaweb](https://www.locaweb.com.br)
+.
 
-Sou fascinado pelo poder transformador da tecnologia e pela possibilidade de conseguir impactar positivamente a vida das
-pessoas através da programação.
-- 🌱 Estudei JavaScript, HTML, CSS, e React.
-- 👨🏽‍💻 Atualmente tenho focado meus estudos em MySql e Node JS.
+
+- 👨🏽‍💻 Atualmente tenho focado meus estudos em Nest JS.
 - 👯 Procuro colaborar em projetos abertos.
-- 🤔 Procuro ajuda para me aprimorar como Dev Front-end.
 - 💬 Precisando de ajuda, pode perguntar. Gosto de colaborar.
 - 📫 Como me contatar: andreluialves@hotmail.com.
 
@@ -25,13 +22,13 @@ pessoas através da programação.
 <h3>Linguagens e ferramentas:</h3>
 <div style="display: inline_block;">
   <img align="left" height="38" alt="HTML5 logo"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
+    src="https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/main/img/html.svg"
     style="max-width: 100%;">
   <img align="left" height="38" alt="css logo"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
+    src="https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/main/img/css.svg"
     style="max-width: 100%;">
   <img align="left" height="38" alt="javaScript logo"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
+    src="https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/main/img/js.png"
     style="max-width: 100%;">
   <img align="left" height="38" alt="react logo"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
@@ -62,18 +59,3 @@ pessoas através da programação.
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluialves&layout=compact&theme=gruvbox" />
 </div>
 <br />
-
-<!--
-**andreluialves/andreluialves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
