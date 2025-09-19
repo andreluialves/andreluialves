@@ -1,13 +1,12 @@
 ## Olá pessoal! 👋
 
-Eu sou o André Alves, graduado em Publicidade e Propaganda e há três anos estudo prgramação. Atualmente sou Desenvolvedor Full Stack na [Locaweb](https://www.locaweb.com.br)
+Eu sou o André Alves e atualmente sou Desenvolvedor Full Stack na [Locaweb](https://www.locaweb.com.br)
 .
 
 
-- 👨🏽‍💻 Atualmente tenho focado meus estudos em Nest JS.
 - 👯 Procuro colaborar em projetos abertos.
 - 💬 Precisando de ajuda, pode perguntar. Gosto de colaborar.
-- 📫 Como me contatar: andreluialves@hotmail.com.
+- 📫 Como me contatar: andreluialves@hotmail.com
 
 
 <h3>Entre em contato comigo:</h3>
